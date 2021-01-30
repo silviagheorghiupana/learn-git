@@ -1,5 +1,6 @@
 class Cat {
    String color;
+   int age;
    
    String getCuloare(){
     return color;
